@@ -31,5 +31,10 @@ namespace TuneStore
             string[] config = System.IO.File.ReadAllLines(@"C:\Users\Luc\Documents\GitHub\tunestore\tunestore\tunestore\resources\config.txt");
             playlistfolder = config[0];
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
