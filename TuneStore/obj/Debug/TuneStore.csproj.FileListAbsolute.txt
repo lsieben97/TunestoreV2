@@ -20,3 +20,5 @@ C:\Users\Luc\Documents\GitHub\TunestoreV2\TuneStore\obj\Debug\TuneStore.exe
 C:\Users\Luc\Documents\GitHub\TunestoreV2\TuneStore\obj\Debug\TuneStore.pdb
 C:\Users\River\Documents\GitHub\TunestoreV2\TuneStore\obj\Debug\TuneStore.exe
 C:\Users\River\Documents\GitHub\TunestoreV2\TuneStore\obj\Debug\TuneStore.pdb
+C:\Users\joey\Documents\GitHub\TunestoreV2\TuneStore\obj\Debug\TuneStore.exe
+C:\Users\joey\Documents\GitHub\TunestoreV2\TuneStore\obj\Debug\TuneStore.pdb
