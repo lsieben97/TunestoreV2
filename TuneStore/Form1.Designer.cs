@@ -45,6 +45,7 @@
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.button3 = new System.Windows.Forms.Button();
             this.textBox4 = new System.Windows.Forms.TextBox();
+            this.richTextBox1 = new System.Windows.Forms.RichTextBox();
             this.textBox3 = new System.Windows.Forms.TextBox();
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.textBox1 = new System.Windows.Forms.TextBox();
@@ -56,7 +57,6 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.tabPage2 = new System.Windows.Forms.TabPage();
-            this.lsbTunesJrl = new System.Windows.Forms.ListBox();
             this.menuStrip1.SuspendLayout();
             this.tbcTuneStoreTrjl.SuspendLayout();
             this.tabPage1.SuspendLayout();
@@ -171,9 +171,9 @@
             // 
             // tabPage1
             // 
-            this.tabPage1.Controls.Add(this.lsbTunesJrl);
             this.tabPage1.Controls.Add(this.button3);
             this.tabPage1.Controls.Add(this.textBox4);
+            this.tabPage1.Controls.Add(this.richTextBox1);
             this.tabPage1.Controls.Add(this.textBox3);
             this.tabPage1.Controls.Add(this.textBox2);
             this.tabPage1.Controls.Add(this.textBox1);
@@ -207,6 +207,14 @@
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(100, 20);
             this.textBox4.TabIndex = 11;
+            // 
+            // richTextBox1
+            // 
+            this.richTextBox1.Location = new System.Drawing.Point(9, 217);
+            this.richTextBox1.Name = "richTextBox1";
+            this.richTextBox1.Size = new System.Drawing.Size(926, 158);
+            this.richTextBox1.TabIndex = 10;
+            this.richTextBox1.Text = "";
             // 
             // textBox3
             // 
@@ -301,14 +309,6 @@
             this.tabPage2.Text = "Mode";
             this.tabPage2.UseVisualStyleBackColor = true;
             // 
-            // lsbTunesJrl
-            // 
-            this.lsbTunesJrl.FormattingEnabled = true;
-            this.lsbTunesJrl.Location = new System.Drawing.Point(9, 226);
-            this.lsbTunesJrl.Name = "lsbTunesJrl";
-            this.lsbTunesJrl.Size = new System.Drawing.Size(926, 147);
-            this.lsbTunesJrl.TabIndex = 16;
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -354,13 +354,13 @@
         private System.Windows.Forms.ComboBox comboBox1;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.TextBox textBox4;
+        private System.Windows.Forms.RichTextBox richTextBox1;
         private System.Windows.Forms.ToolStripMenuItem newToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem openToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem saveToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem exitToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem logConsoleToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem playlistManagerToolStripMenuItem;
-        private System.Windows.Forms.ListBox lsbTunesJrl;
     }
 }
 
