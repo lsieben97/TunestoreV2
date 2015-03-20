@@ -22,3 +22,9 @@ C:\Users\River\Documents\GitHub\TunestoreV2\TuneStore\obj\Debug\TuneStore.exe
 C:\Users\River\Documents\GitHub\TunestoreV2\TuneStore\obj\Debug\TuneStore.pdb
 C:\Users\joey\Documents\GitHub\TunestoreV2\TuneStore\obj\Debug\TuneStore.exe
 C:\Users\joey\Documents\GitHub\TunestoreV2\TuneStore\obj\Debug\TuneStore.pdb
+C:\Users\Luc\Documents\GitHub\TunestoreV2\TuneStore\bin\Debug\TuneStore.exe
+C:\Users\Luc\Documents\GitHub\TunestoreV2\TuneStore\bin\Debug\TuneStore.pdb
+C:\Users\Luc\Documents\GitHub\TunestoreV2\TuneStore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luc\Documents\GitHub\TunestoreV2\TuneStore\obj\Debug\TuneStore.Form1.resources
+C:\Users\Luc\Documents\GitHub\TunestoreV2\TuneStore\obj\Debug\TuneStore.Properties.Resources.resources
+C:\Users\Luc\Documents\GitHub\TunestoreV2\TuneStore\obj\Debug\TuneStore.csproj.GenerateResource.Cache
